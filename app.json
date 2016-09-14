@@ -1,0 +1,15 @@
+{
+  "name": "TrainningBlog",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
